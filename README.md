@@ -1,2 +1,2 @@
-# python-shopping-cart
-A shopping cart using python
+# Shopping Site Using Python Flask
+A shopping cart using python flask
